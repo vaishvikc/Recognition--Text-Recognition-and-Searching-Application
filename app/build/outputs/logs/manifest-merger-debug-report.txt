@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /home/alien/.gradle/caches/transforms-1/files-1.1/zxing-1.9.aar/9dd4bd75d7720d53c016c1c85cf78c88/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/fc319718a9cfbdd0f763a0d21303b346/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e2a8d0c8081f6e0762df0ba4590c8c74/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/7b823dc598521670b48eb694880542aa/AndroidManifest.xml:2:1-9:12
+MERGED from [me.dm7.barcodescanner:core:1.9] /home/alien/.gradle/caches/transforms-1/files-1.1/core-1.9.aar/256d82147539e9a113c50264f8abf253/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/25a2a40c413af99929ab380f1da6eba6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/9bd583f24a525a6e609fdc8b8425aa3c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/684c04d446f5a4851f8d5c076821b4df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/5d0fb3a074c4ef2a7c0b1edbb7dc2a6c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/699dc167ccc402efa201264a32b64d6a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0bdacd9c0bb052e43ab7761b785a201c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cad5d6eed53f9c3e2bdd1f395b43000e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/25093b1b6b6772acbe57d47d19151a04/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/df01ab9544f64120f35c17c569d632b3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/f54b669075073e04568f702171db7425/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d9232c243532af9e15573bc7b1713dfb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0b64c904585273c0376f075b499957be/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1c5e5b638e3705c6b46c895182d97200/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/761d2703a6de5d4214f393997fad3dd3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f221b48e038aafd000905e673b34c814/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699ed19420bff06834bb694fd49f3c89/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:6:22-68
+uses-feature#android.hardware.camera
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:7:5-59
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:8:19-67
+application
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:11:5-38:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /home/alien/.gradle/caches/transforms-1/files-1.1/zxing-1.9.aar/9dd4bd75d7720d53c016c1c85cf78c88/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /home/alien/.gradle/caches/transforms-1/files-1.1/zxing-1.9.aar/9dd4bd75d7720d53c016c1c85cf78c88/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/fc319718a9cfbdd0f763a0d21303b346/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/fc319718a9cfbdd0f763a0d21303b346/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e2a8d0c8081f6e0762df0ba4590c8c74/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e2a8d0c8081f6e0762df0ba4590c8c74/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/7b823dc598521670b48eb694880542aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/7b823dc598521670b48eb694880542aa/AndroidManifest.xml:7:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9] /home/alien/.gradle/caches/transforms-1/files-1.1/core-1.9.aar/256d82147539e9a113c50264f8abf253/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9] /home/alien/.gradle/caches/transforms-1/files-1.1/core-1.9.aar/256d82147539e9a113c50264f8abf253/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/25a2a40c413af99929ab380f1da6eba6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/25a2a40c413af99929ab380f1da6eba6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/9bd583f24a525a6e609fdc8b8425aa3c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/9bd583f24a525a6e609fdc8b8425aa3c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/5d0fb3a074c4ef2a7c0b1edbb7dc2a6c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/5d0fb3a074c4ef2a7c0b1edbb7dc2a6c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/699dc167ccc402efa201264a32b64d6a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/699dc167ccc402efa201264a32b64d6a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0bdacd9c0bb052e43ab7761b785a201c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0bdacd9c0bb052e43ab7761b785a201c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cad5d6eed53f9c3e2bdd1f395b43000e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cad5d6eed53f9c3e2bdd1f395b43000e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/25093b1b6b6772acbe57d47d19151a04/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/25093b1b6b6772acbe57d47d19151a04/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/df01ab9544f64120f35c17c569d632b3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/df01ab9544f64120f35c17c569d632b3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/f54b669075073e04568f702171db7425/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/f54b669075073e04568f702171db7425/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d9232c243532af9e15573bc7b1713dfb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d9232c243532af9e15573bc7b1713dfb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0b64c904585273c0376f075b499957be/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0b64c904585273c0376f075b499957be/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1c5e5b638e3705c6b46c895182d97200/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1c5e5b638e3705c6b46c895182d97200/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/761d2703a6de5d4214f393997fad3dd3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/761d2703a6de5d4214f393997fad3dd3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f221b48e038aafd000905e673b34c814/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f221b48e038aafd000905e673b34c814/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699ed19420bff06834bb694fd49f3c89/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699ed19420bff06834bb694fd49f3c89/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:13:9-53
+	android:allowBackup
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:17:9-70
+activity#com.example.android.recognition.MainActivity
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.android.recognition.aboutActivity
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:25:19-48
+activity#com.example.android.recognition.textActivity
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:26:19-47
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:28:9-30:35
+	android:value
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:30:13-32
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:29:13-70
+activity#com.example.android.recognition.voiceActivity
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:32:9-51
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:32:19-48
+activity#com.example.android.recognition.barActivity
+ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:36:9-37:61
+	android:screenOrientation
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml:36:19-46
+uses-sdk
+INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /home/alien/.gradle/caches/transforms-1/files-1.1/zxing-1.9.aar/9dd4bd75d7720d53c016c1c85cf78c88/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /home/alien/.gradle/caches/transforms-1/files-1.1/zxing-1.9.aar/9dd4bd75d7720d53c016c1c85cf78c88/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/fc319718a9cfbdd0f763a0d21303b346/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/fc319718a9cfbdd0f763a0d21303b346/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e2a8d0c8081f6e0762df0ba4590c8c74/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e2a8d0c8081f6e0762df0ba4590c8c74/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/7b823dc598521670b48eb694880542aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/7b823dc598521670b48eb694880542aa/AndroidManifest.xml:5:5-44
+MERGED from [me.dm7.barcodescanner:core:1.9] /home/alien/.gradle/caches/transforms-1/files-1.1/core-1.9.aar/256d82147539e9a113c50264f8abf253/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9] /home/alien/.gradle/caches/transforms-1/files-1.1/core-1.9.aar/256d82147539e9a113c50264f8abf253/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/25a2a40c413af99929ab380f1da6eba6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/25a2a40c413af99929ab380f1da6eba6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/9bd583f24a525a6e609fdc8b8425aa3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/9bd583f24a525a6e609fdc8b8425aa3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/684c04d446f5a4851f8d5c076821b4df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/684c04d446f5a4851f8d5c076821b4df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/5d0fb3a074c4ef2a7c0b1edbb7dc2a6c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/5d0fb3a074c4ef2a7c0b1edbb7dc2a6c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/699dc167ccc402efa201264a32b64d6a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/699dc167ccc402efa201264a32b64d6a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0bdacd9c0bb052e43ab7761b785a201c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0bdacd9c0bb052e43ab7761b785a201c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cad5d6eed53f9c3e2bdd1f395b43000e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cad5d6eed53f9c3e2bdd1f395b43000e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/25093b1b6b6772acbe57d47d19151a04/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/25093b1b6b6772acbe57d47d19151a04/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/df01ab9544f64120f35c17c569d632b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/df01ab9544f64120f35c17c569d632b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/f54b669075073e04568f702171db7425/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/f54b669075073e04568f702171db7425/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d9232c243532af9e15573bc7b1713dfb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d9232c243532af9e15573bc7b1713dfb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0b64c904585273c0376f075b499957be/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0b64c904585273c0376f075b499957be/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1c5e5b638e3705c6b46c895182d97200/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1c5e5b638e3705c6b46c895182d97200/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/761d2703a6de5d4214f393997fad3dd3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/761d2703a6de5d4214f393997fad3dd3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f221b48e038aafd000905e673b34c814/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f221b48e038aafd000905e673b34c814/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699ed19420bff06834bb694fd49f3c89/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699ed19420bff06834bb694fd49f3c89/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/fc319718a9cfbdd0f763a0d21303b346/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alien/Recognition App/Recognition/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/699dc167ccc402efa201264a32b64d6a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/699dc167ccc402efa201264a32b64d6a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/699dc167ccc402efa201264a32b64d6a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/699dc167ccc402efa201264a32b64d6a/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cad5d6eed53f9c3e2bdd1f395b43000e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cad5d6eed53f9c3e2bdd1f395b43000e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/alien/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cad5d6eed53f9c3e2bdd1f395b43000e/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/25093b1b6b6772acbe57d47d19151a04/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d9232c243532af9e15573bc7b1713dfb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d9232c243532af9e15573bc7b1713dfb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0b64c904585273c0376f075b499957be/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0b64c904585273c0376f075b499957be/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1c5e5b638e3705c6b46c895182d97200/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1c5e5b638e3705c6b46c895182d97200/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/761d2703a6de5d4214f393997fad3dd3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/761d2703a6de5d4214f393997fad3dd3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f221b48e038aafd000905e673b34c814/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f221b48e038aafd000905e673b34c814/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/25093b1b6b6772acbe57d47d19151a04/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/alien/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/25093b1b6b6772acbe57d47d19151a04/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699ed19420bff06834bb694fd49f3c89/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699ed19420bff06834bb694fd49f3c89/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/alien/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699ed19420bff06834bb694fd49f3c89/AndroidManifest.xml:26:13-58
